@@ -1,0 +1,7 @@
+<application>
+  <component name="GithubAccounts">
+    <account id="9bcfc7b3-03ef-4d85-a2ff-d9b25eb42888" name="senthil_email@rediffmail.com">
+      <server host="github.com" />
+    </account>
+  </component>
+</application>
